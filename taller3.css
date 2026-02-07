@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+    border: 2px solid rgb(255, 115, 0);
+}
+
+#titulo {
+    color: rgb(194, 107, 0);
+    background-color: rgb(255, 195, 83);
+    display: block;
+    width: fit-content;
+}
+
+.texto {
+    color: maroon;
+    background-color: rgb(255, 144, 103);
+    display: inline;
+}
